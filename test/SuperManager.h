@@ -17,6 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 +(instancetype) shareInstance;
 +(void)net;
 -(void)request;
+-(void)request1;
 
 @end
 

@@ -35,6 +35,9 @@ static SuperManager* instance = nil;
 -(void)request{
     
 }
+-(void)request1{
+    
+}
 + (void)net{
     NSLog(@"superNet");
 }
